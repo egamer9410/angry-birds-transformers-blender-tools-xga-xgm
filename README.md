@@ -3,6 +3,8 @@ the following is made by feeding .xgm and .xga files to claude AI yes im saying 
 check releases
 
 credits
+ROVIO these guy own these models
+xentient game egnine
 claude.ai wrote the script for xgm and xga
 Luigi Auiremma creator of quickbms and the needed script for unpacking abtf .paks
 me for rigging and getting these models into blender
